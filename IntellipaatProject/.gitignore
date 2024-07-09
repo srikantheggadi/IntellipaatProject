@@ -1,0 +1,6 @@
+#Default ignore files
+/shelf/
+/workspace.xml/
+.idea/*
+target/*
+IntellipaatProject.xml
