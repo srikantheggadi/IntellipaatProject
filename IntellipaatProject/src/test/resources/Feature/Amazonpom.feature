@@ -7,7 +7,7 @@ Feature: Amazon Functionality Automation
  Then User verify the baby wishlist Benefits page
  
  Scenario: Filter by memory Storage Capacity Validation
- Given user enters the product name
- When user selects the memory capacity
+    Given user enters the product name
+    When user selects the memory capacity
  
  
